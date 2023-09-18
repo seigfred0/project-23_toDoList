@@ -2,4 +2,4 @@
 
 - a simple todo list with functioning delete and "completed" state.
 
-[todo list](./img/todoImage.png)
+![todo list](./img/todoImage.png)
